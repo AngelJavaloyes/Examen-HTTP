@@ -13,7 +13,7 @@ sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web1
 sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web2
 
 # Configuración web 1
-<img width="519" height="129" alt="image" src="https://github.com/user-attachments/assets/9ebd6a9c-6f2a-4c7e-a71c-3965614772f3" />
+<img width="524" height="165" alt="image" src="https://github.com/user-attachments/assets/61478dc1-bb90-4e09-9687-2d650bba8241" />
 
 
 # Configuración web 2
