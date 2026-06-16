@@ -23,7 +23,7 @@ sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web2
 sudo ln -s /etc/nginx/sites-available/web1 /etc/nginx/sites-enabled/
 sudo ln -s /etc/nginx/sites-available/web2 /etc/nginx/sites-enabled/
 
-# Cliente externo
+# Cliente interno
 <img width="344" height="76" alt="image" src="https://github.com/user-attachments/assets/2442556d-a537-4a8b-92cb-1d51054c4864" />
 
 # Redirecciónes
