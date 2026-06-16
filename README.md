@@ -22,10 +22,13 @@ sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web2
 # Configuración web 1 mantenimiento
 sudo mkdir /var/www/web1
 sudo nano /var/www/web1.mantenimiento/index.html
+<img width="647" height="133" alt="image" src="https://github.com/user-attachments/assets/c4542107-ac1e-428b-93e4-43d1afd81473" />
+
 
 # Vinculo
 sudo ln -s /etc/nginx/sites-available/web1 /etc/nginx/sites-enabled/
 sudo ln -s /etc/nginx/sites-available/web2 /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/web1.mantenimiento /etc/nginx/sites-enabled/
 
 # Cliente interno
 <img width="344" height="76" alt="image" src="https://github.com/user-attachments/assets/2442556d-a537-4a8b-92cb-1d51054c4864" />
