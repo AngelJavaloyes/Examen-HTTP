@@ -17,4 +17,4 @@ sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web2
 
 
 # Configuración web 2
-<img width="520" height="162" alt="image" src="https://github.com/user-attachments/assets/218fb253-ba1f-448d-89d5-307e90e85668" />
+<img width="596" height="199" alt="image" src="https://github.com/user-attachments/assets/46e7d875-df4d-4dbe-a1fe-2eb01f96ed33" />
