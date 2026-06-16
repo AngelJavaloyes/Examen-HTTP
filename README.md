@@ -19,6 +19,10 @@ sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web2
 # Configuración web 2
 <img width="596" height="199" alt="image" src="https://github.com/user-attachments/assets/46e7d875-df4d-4dbe-a1fe-2eb01f96ed33" />
 
+# Configuración web 1 mantenimiento
+sudo mkdir /var/www/web1
+
+
 # Vinculo
 sudo ln -s /etc/nginx/sites-available/web1 /etc/nginx/sites-enabled/
 sudo ln -s /etc/nginx/sites-available/web2 /etc/nginx/sites-enabled/
@@ -30,3 +34,8 @@ sudo ln -s /etc/nginx/sites-available/web2 /etc/nginx/sites-enabled/
 ## web1
 http://web1.org pasa a ser https://web1.org
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2df8ff30-27ed-4137-b572-7f2df1a6f821" />
+
+## web2
+Aun no redirije pero al menos se ve que llega al servidor (ya que esta maquina no tiene acceso a internet al estar en una red interna)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/160767a8-d4d3-4f2e-bbdf-e7e1d5f505af" />
+
