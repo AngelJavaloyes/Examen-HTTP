@@ -21,7 +21,7 @@ sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/web2
 
 # Configuración web 1 mantenimiento
 sudo mkdir /var/www/web1
-
+sudo nano /var/www/web1.mantenimiento/index.html
 
 # Vinculo
 sudo ln -s /etc/nginx/sites-available/web1 /etc/nginx/sites-enabled/
